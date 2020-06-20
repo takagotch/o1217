@@ -1,9 +1,9 @@
 # Site settings
-title: "MADness"
+title: "TKVTV"
 description: A Template for Jekyll
 
 # Files
-baseurl:
+baseurl: https://takagotch.github.io/page119/
 pagesdir: pages
 assets:
   libs: assets/libs
