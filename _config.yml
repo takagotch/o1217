@@ -3,7 +3,7 @@ title: "TKVTV"
 description: A Template for Jekyll
 
 # Files
-baseurl:  "/page119"
+baseurl:  
 pagesdir: pages
 assets:
   libs: assets/libs
@@ -11,7 +11,7 @@ assets:
 logo: logo.png
 discus_shortname: MADness
 email: mad@ness.com
-url: "https://takagotch.github.io/"
+url: "https://takagotch.github.io/page119/"
 search: true
 share: true
 comments: true
